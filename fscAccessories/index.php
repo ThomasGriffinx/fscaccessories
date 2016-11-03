@@ -57,7 +57,7 @@
 								<img src="img/psd-4.jpg" alt="" />
 								<dl>
 									<dt>Arte</dt>
-									<dd>Symphony is a responsive one page website template designed with sketches and coded with html5 and php. Freebie released by Lacoste Xavier.</dd>	
+									<dd>Flooring Supply Centre have been trading since 1960 and we bring you the best prices along with a professional service that is second to none.  Call us direct for the best prices in the UK, we will beat any genuine quote! 0151 521 5221</dd>	
 								</dl>
 							</a>
                             <div id="wrapper-part-info">

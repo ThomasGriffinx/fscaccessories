@@ -31,10 +31,14 @@
 
 <!-- NAVBAR -->
 
-<div id="wrapper-navbar">
+	<div id="wrapper-navbar">
 		<div class="navbar object">
     		<div id="wrapper-sorting">
+            <div id="wrapper-title-1">
+            <div class="top-rated object"><a href ="www.flooringsupplycentre.co.uk">Visit our full site</a></div>
+            	<div id="fleche-nav-1"></div>
     		</div>
+            
             </div>
            
 
@@ -102,7 +106,7 @@
 							</a>
                             <div id="wrapper-part-info">
                          
-                            	<div id="part-info">Quick-Step Wood Installations</div>
+                            	<div id="part-info">Quick-Step Supply and Fit</div>
 							</div>
 						</figure>	
 					</section>

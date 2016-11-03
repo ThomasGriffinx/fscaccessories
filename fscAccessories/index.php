@@ -25,11 +25,6 @@
 <div id="wrapper-header">
 	<div id="main-header" class="object">
 		<div class="logo"><img src="img/logo.png" alt="logo fsc" height="38" width="90"></div>
-        <div id="main_tip_search"> 
-			<form>
-				<input type="text" name="search" id="tip_search_input" list="search" autocomplete=off required>
-			</form>
-		</div>
         <div id="stripes"></div>
     </div>
 </div>
@@ -39,7 +34,6 @@
 <div id="wrapper-navbar">
 		<div class="navbar object">
     		<div id="wrapper-sorting">
-      
     		</div>
             </div>
            
@@ -59,16 +53,15 @@
 					<section class="work">
 
 						<figure class="white">
-							<a href="details.html">
+							<a href="#">
 								<img src="img/psd-4.jpg" alt="" />
 								<dl>
-									<dt>Wordpress theme</dt>
+									<dt>Arte</dt>
 									<dd>Symphony is a responsive one page website template designed with sketches and coded with html5 and php. Freebie released by Lacoste Xavier.</dd>	
 								</dl>
 							</a>
                             <div id="wrapper-part-info">
-                            	<div class="part-info-image"><img src="img/icon-psd.svg" alt="" width="28" height="28"/></div>
-                            	<div id="part-info">Wordpress theme</div>
+                            	<div id="part-info">Arte</div>
 							</div>
                         </figure>	
 
@@ -76,13 +69,13 @@
 							<a href="#">
 								<img src="img/font-1.jpg" alt="" />
 								<dl>
-									<dt>Free font</dt>
+									<dt>Classic</dt>
 									<dd>Bavro is a minimal free font best suitable for posters and headlines. Designed and released by Marcelo Melo.</dd>
 								</dl>
 							</a>	
                             <div id="wrapper-part-info">
                             	<div class="part-info-image"><img src="img/icon-font.svg" alt="" width="28" height="28"/></div>
-                            	<div id="part-info">Free font</div>
+                            	<div id="part-info">Classic</div>
 							</div>
 						</figure>	
 
@@ -90,13 +83,13 @@
 							<a href="#">
 								<img src="img/psd-1.jpg" alt="" />
 								<dl>
-									<dt>PSD Goodies</dt>
+									<dt>Creo</dt>
 									<dd>A set of high resolution iPhone 6 and Nexus 5 mockups created with smart objects. Free PSD released by Ghani Pradita.</dd>	
 								</dl>
 							</a>	
                             <div id="wrapper-part-info">
                             	<div class="part-info-image"><img src="img/icon-psd.svg" alt="" width="28" height="28"/></div>
-                            	<div id="part-info">PSD Goodies</div>
+                            	<div id="part-info">Creo</div>
 							</div>
 						</figure>	
 
@@ -104,27 +97,27 @@
 							<a href="#">
 								<img src="img/psd-2.jpg" alt="" />
 								<dl>
-									<dt>PSD Goodies</dt>
+									<dt>Eligna</dt>
 									<dd>A set of 4 free photorealistic Nexus 5 mockups providing smart objects. Free PSD released by Craftwork.</dd>	
 								</dl>
 							</a>
                             <div id="wrapper-part-info">
                             	<div class="part-info-image"><img src="img/icon-psd.svg" alt="" width="28" height="28"/></div>
-                            	<div id="part-info">PSD Goodies</div>
+                            	<div id="part-info">Eligna</div>
 							</div>
 						</figure>	
 
 						<figure class="white">
 							<a href="#">
-								<img src="img/ai-1.jpg" alt="" />
+								<img src="img/ai-1.jpg" alt=""/>
 								<dl>
-									<dt>Illustrator freebies</dt>
-									<dd>A set of 6 outline beer icons created with Adobe Illustrator. Free Ai designed and released by Justas Galaburda.</dd>	
+									<dt>Eligna Wide</dt>
+									<dd></dd>	
 								</dl>
 							</a>	
                             <div id="wrapper-part-info">
                             	<div class="part-info-image"><img src="img/icon-ai.svg" alt="" width="28" height="28"/></div>
-                            	<div id="part-info">Illustrator Freebies</div>
+                            	<div id="part-info">Eligna Wide</div>
 							</div>
 						</figure>	
 
@@ -132,13 +125,13 @@
 							<a href="#">
 								<img src="img/theme-2.jpg" alt="" />
 								<dl>
-									<dt>Html theme</dt>
+									<dt>Elite</dt>
 									<dd>Symphony is a responsive one page website template designed with sketches and coded with html5 and php. Freebie released by Lacoste Xavier.</dd>	
 								</dl>
 							</a>
                             <div id="wrapper-part-info">
                             	<div class="part-info-image"><img src="img/icon-themes.svg" alt="" width="28" height="28"/></div>
-                            	<div id="part-info">Html theme</div>
+                            	<div id="part-info">Elite</div>
 							</div>
 						</figure>	
 
@@ -146,13 +139,13 @@
 							<a href="#">
 								<img src="img/psd-3.jpg" alt="" />
 								<dl>
-									<dt>PSD goodies</dt>
+									<dt>Exquisa</dt>
 									<dd>A set of 9 high-quality Apple Watch mockups created with Photoshop smart objects. Free PSD released by Samuel Medvedowsky.</dd>	
 								</dl>
 							</a>	
                             <div id="wrapper-part-info">
                             	<div class="part-info-image"><img src="img/icon-psd.svg" alt="" width="28" height="28"/></div>
-                            	<div id="part-info">PSD Goodies</div>
+                            	<div id="part-info">Exquisa</div>
 							</div>
 						</figure>	
 
@@ -160,13 +153,13 @@
 							<a href="#">
 								<img src="img/font-2.jpg" alt="" />
 								<dl>
-									<dt>Free font</dt>
+									<dt>Impressive</dt>
 									<dd>Beyno is a free uppercase font with a futuristic feel and look. Designed and released by Fabian Korn.</dd>	
 								</dl>
 							</a>
                             <div id="wrapper-part-info">
                             	<div class="part-info-image"><img src="img/icon-font.svg" alt="" width="28" height="28"/></div>
-                            	<div id="part-info">Free font</div>
+                            	<div id="part-info">Impressive</div>
 							</div>
 						</figure>	
 
@@ -174,13 +167,13 @@
 							<a href="#">
 								<img src="img/font-3.jpg" alt="" />
 								<dl>
-									<dt>Wordpress theme</dt>
+									<dt>Largo</dt>
 									<dd>Symphony is a responsive one page website template designed with sketches and coded with html5 and php. Freebie released by Lacoste Xavier.</dd>	
 								</dl>
 							</a>	
                             <div id="wrapper-part-info">
                             	<div class="part-info-image"><img src="img/icon-font.svg" alt="" width="28" height="28"/></div>
-                            	<div id="part-info">Wordpress theme</div>
+                            	<div id="part-info">Largo</div>
 							</div>
 						</figure>	
 
@@ -188,13 +181,13 @@
 							<a href="#">
 								<img src="img/ai-2.jpg" alt="" />
 								<dl>
-									<dt>Illustrator icons</dt>
+									<dt>Perspective</dt>
 									<dd>A set of 16 outline space icons created with Adobe Illustrator. Free Ai designed and released by Justas Galaburda.</dd>	
 								</dl>
 							</a>	
                             <div id="wrapper-part-info">
                             	<div class="part-info-image"><img src="img/icon-ai.svg" alt="" width="28" height="28"/></div>
-                            	<div id="part-info">Illustrator icons</div>
+                            	<div id="part-info">Perspective</div>
 							</div>
 						</figure>		
 
@@ -202,13 +195,13 @@
 							<a href="#">
 								<img src="img/icons-1.jpg" alt="" />
 								<dl>
-									<dt>PSD icons</dt>
+									<dt>Perspective Wide</dt>
 									<dd>Grap is a set of 9 simple but coloured icons created with Photoshop. Free PSD released by kamran bhatti.</dd>	
 								</dl>
 							</a>
                             <div id="wrapper-part-info">
                             	<div class="part-info-image"><img src="img/icon-psd.svg" alt="" width="28" height="28"/></div>
-                            	<div id="part-info">PSD icons</div>
+                            	<div id="part-info">Perspective Wide</div>
 							</div>
 						</figure>	
 
@@ -216,13 +209,13 @@
 							<a href="#">
 								<img src="img/ui-1.jpg" alt="" />
 								<dl>
-									<dt>UI design</dt>
+									<dt>Rustic</dt>
 									<dd>Acess to our largest database of the web about the ui and look into a ton of professionnal tools</dd>	
 								</dl>
 							</a>	
                             <div id="wrapper-part-info">
                             	<div class="part-info-image"><img src="img/icon-premium.svg" alt="" width="28" height="28"/></div>
-                            	<div id="part-info">Premium ui</div>
+                            	<div id="part-info">Rustic</div>
 							</div>
 						</figure>
                         

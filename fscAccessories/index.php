@@ -11,9 +11,6 @@
     <link href='http://fonts.googleapis.com/css?family=Roboto:400,900,900italic,700italic,700,500italic,400italic,500,300italic,300' rel='stylesheet' type='text/css'>
 	<link href='https://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
 	<link href='style.css' rel='stylesheet' type='text/css'>
-	 <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-  <link href="../css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
-  <link href="../css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
 	</head>
 
 <body>
@@ -97,7 +94,7 @@
 
 							<figure class="white">
 							<a href="#">
-								<img src="img/q5.png" alt="" />
+								<img src="img/q6.png" alt="" />
 								<dl>
 									<dt>Quick-Step Installations</dt>
 									<dd>Call us direct for the best prices in the UK we will beat any genuine quote on all domestic and commerical installation services 0151 521 5221</dd>	
@@ -114,24 +111,7 @@
             	    
 			</div>
 
-          <br> </br>
-
-
-	<div id="index-banner" class="parallax-container">
-    <div class="section no-pad-bot">
-      <div class="container">
-        <h1 class="header center white-text bold">Flooring Supply Centre</h1>
-        <div class="row center">
-          <h5 class="header col s12 light bold">Trading since 1960, Visit our full site @ flooringsupplycentre.co.uk for details</h5>
-        </div>
-        <div class="row center">
-          <a href="../index.html" id="download-button" class="btn-large waves-effect waves-light red lighten-1">Visit</a>
-        </div>
-        <br><br>
-      </div>
-    </div>
-    <div class="parallax"><img src="../img/footer.png" alt="Unsplashed background img 1"></div>
-  </div>
+      
 
     
 

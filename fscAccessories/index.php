@@ -38,8 +38,7 @@
             </div>
            
 
-<!-- FILTER -->	
-
+<!--HEADER-->
 
 
 <!-- PORTFOLIO -->
@@ -56,13 +55,12 @@
 							<a href="#">
 								<img src="img/q1.png" alt="" />
 								<dl>
-									<dt>Quick-Step Arte</dt>
-									<dd>Flooring Supply Centre have been trading since 1960 and we bring you 
-									a professional service that is second to none. Call us direct for the best prices in the UK, we will beat any genuine quote! 0151 521 5221</dd>	
+									<dt>Quick-Step Laminates</dt>
+									<dd> Call us direct for the best prices in the UK we will beat any genuine quote on all Quick-Step laminate ranges! 0151 521 5221</dd>	
 								</dl>
 							</a>
                             <div id="wrapper-part-info">
-                            	<div id="part-info">Arte</div>
+                            	<div id="part-info">Quick-Step Laminate Flooring</div>
 							</div>
                         </figure>	
 
@@ -70,14 +68,13 @@
 							<a href="#">
 								<img src="img/q3.png" alt="" />
 								<dl>
-									<dt>Quick-Step Creo 0151 521 5221</dt>
-									<dd>Flooring Supply Centre have been trading since 1960 and we bring you 
-									a professional service that is second to none. Call us direct for the best prices in the UK, we will beat any genuine quote! 0151 521 5221.</dd>	
+									<dt>Quick-Step Vinyl</dt>
+									<dd>Call us direct for the best prices in the UK we will beat any genuine quote on all Quick-Step vinyl ranges! 0151 521 5221</dd>	
 								</dl>
 							</a>	
                             <div id="wrapper-part-info">
                             
-                            	<div id="part-info">Creo</div>
+                            	<div id="part-info">Quick-Step Vinyl Flooring</div>
 							</div>
 						</figure>	
 
@@ -85,88 +82,54 @@
 							<a href="#">
 								<img src="img/q4.png" alt="" />
 								<dl>
-									<dt>Quick-Step Eligna</dt>
-									<dd>Flooring Supply Centre have been trading since 1960 and we bring you 
-									a professional service that is second to none. Call us direct for the best prices in the UK, we will beat any genuine quote! 0151 521 5221</dd>	
+									<dt>Quick-Step Wood</dt>
+									<dd>Call us direct for the best prices in the UK we will beat any genuine quote on all Quick-Step wood ranges! 0151 521 5221</dd>	
 								</dl>
 							</a>
                             <div id="wrapper-part-info">
                          
-                            	<div id="part-info">Eligna</div>
+                            	<div id="part-info">Quick-Step Wood Flooring</div>
 							</div>
 						</figure>	
 
-						<figure class="white">
+							<figure class="white">
 							<a href="#">
-								<img src="img/q4.png" alt=""/>
+								<img src="img/q5.png" alt="" />
 								<dl>
-									<dt>Quick-Step Eligna Wide</dt>
-									<dd>Flooring Supply Centre have been trading since 1960 and we bring you 
-									a professional service that is second to none. Call us direct for the best prices in the UK, we will beat any genuine quote! 0151 521 5221</dd>	
+									<dt>Quick-Step Installations</dt>
+									<dd>Call us direct for the best prices in the UK we will beat any genuine quote on all domestic and commerical installation services 0151 521 5221</dd>	
 								</dl>
-							</a>	
-                            <div id="wrapper-part-info">
-                           
-                            	<div id="part-info">Eligna Wide</div>
-							</div>
-						</figure>	
-
-						<figure class="white">
-							<a href="#">
-								<img src="img/q6.png" alt="" />
-								<dl>
-									<dt>Quick-Step Exquisa</dt>
-									<dd>Flooring Supply Centre have been trading since 1960 and we bring you 
-									a professional service that is second to none. Call us direct for the best prices in the UK, we will beat any genuine quote! 0151 521 5221.</dd>	
-								</dl>
-							</a>	
+							</a>
                             <div id="wrapper-part-info">
                          
-                            	<div id="part-info">Exquisa</div>
+                            	<div id="part-info">Quick-Step Wood Installations</div>
 							</div>
 						</figure>	
-
-						<figure class="white">
-							<a href="#">
-								<img src="img/q7.png" alt="" />
-								<dl>
-									<dt>Quick-Step Impressive</dt>
-									<dd>Flooring Supply Centre have been trading since 1960 and we bring you 
-									a professional service that is second to none. Call us direct for the best prices in the UK, we will beat any genuine quote! 0151 521 5221</dd>	
-								</dl>
-							</a>
-                            <div id="wrapper-part-info">
-                            	
-                            	<div id="part-info">Impressive</div>
-							</div>
-						</figure>	
-
-							
-
-						<figure class="white">
-							<a href="#">
-								<img src="img/q10.png" alt="" />
-								<dl>
-									<dt>Quick-Step Perspective Wide</dt>
-									<dd>Flooring Supply Centre have been trading since 1960 and we bring you 
-									a professional service that is second to none. Call us direct for the best prices in the UK, we will beat any genuine quote!</dd>	
-								</dl>
-							</a>
-                            <div id="wrapper-part-info">
-                            
-                            	<div id="part-info">Perspective Wide</div>
-							</div>
-						</figure>
-                        
 					</section>
                     
 				</div>	
             	    
 			</div>
+
+          <br> </br>
           
 
-	    
-    
+	<div id="index-banner" class="parallax-container">
+    <div class="section no-pad-bot">
+      <div class="container">
+        <h1 class="header center white-text bold">Flooring Supply Centre</h1>
+        <div class="row center">
+          <h5 class="header col s12 light bold">Trading since 1960, Visit our full site @ flooringsupplycentre.co.uk for details</h5>
+        </div>
+        <div class="row center">
+          <a href="../index.html" id="download-button" class="btn-large waves-effect waves-light red lighten-1">Visit</a>
+        </div>
+        <br><br>
+      </div>
+    </div>
+    <div class="parallax"><img src="../Images/background3.jpg" alt="Unsplashed background img 1"></div>
+  </div>
+
     
 
 

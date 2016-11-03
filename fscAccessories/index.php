@@ -11,6 +11,9 @@
     <link href='http://fonts.googleapis.com/css?family=Roboto:400,900,900italic,700italic,700,500italic,400italic,500,300italic,300' rel='stylesheet' type='text/css'>
 	<link href='https://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
 	<link href='style.css' rel='stylesheet' type='text/css'>
+	 <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link href="../css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+  <link href="../css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
 	</head>
 
 <body>
@@ -145,15 +148,14 @@
 	<script type="text/javascript" src="js/jquery.animate-colors-min.js"></script>
 	<script type="text/javascript" src="js/jquery.animate-shadow-min.js"></script>    
 	<script type="text/javascript" src="js/main.js"></script>
+	<script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+  	<script src="../js/materialize.js"></script>
+  	<script src="../js/init.js"></script>
 	<script>
-	
-
-
-
 
 /* PRELOADER */
 
-/*function preloader() {
+function preloader() {
 	if (document.images) {
 		var img1 = new Image();
 		var img2 = new Image();
@@ -213,7 +215,7 @@ function addLoadEvent(func) {
 }
 addLoadEvent(preloader);
 
-*/
+
 
 </script>
 

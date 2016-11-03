@@ -112,7 +112,7 @@
 			</div>
 
           <br> </br>
-          
+
 
 	<div id="index-banner" class="parallax-container">
     <div class="section no-pad-bot">
@@ -127,7 +127,7 @@
         <br><br>
       </div>
     </div>
-    <div class="parallax"><img src="../Images/background3.jpg" alt="Unsplashed background img 1"></div>
+    <div class="parallax"><img src="../img/footer.png" alt="Unsplashed background img 1"></div>
   </div>
 
     

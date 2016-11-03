@@ -25,6 +25,13 @@
 <div id="wrapper-header">
 	<div id="main-header" class="object">
 		<div class="logo"><img src="img/logo.png" alt="logo fsc" height="38" width="90"></div>
+        <div id="main_tip_search"> 
+			<form>
+				<input type="text" name="search" id="tip_search_input" list="search" autocomplete=off required>
+			</form>
+		</div>
+        <div id="stripes"></div>
+    </div>
 </div>
 
 <!-- NAVBAR -->
@@ -32,24 +39,13 @@
 <div id="wrapper-navbar">
 		<div class="navbar object">
     		<div id="wrapper-sorting">
-            <div id="wrapper-title-1">
-            <div class="top-rated object"></div>
-            	<div id="fleche-nav-1"></div>
-    		</div>
-            
-            <div id="wrapper-title-2">
-            <a href="#"><div class="recent object"></div></a>
-                <div id="fleche-nav-2"></div>
-    		</div>
-            
-            <div id="wrapper-title-3">
-            <a href="#"><div class="oldies object"></div></a>
-                <div id="fleche-nav-3"></div>
+      
     		</div>
             </div>
            
 
 <!-- FILTER -->	
+
 
 
 <!-- PORTFOLIO -->

@@ -56,7 +56,7 @@
 							<a href="#">
 								<img src="img/q1.png" alt="" />
 								<dl>
-									<dt>Quick-Step Arte</dt>
+									<dt>Quick-Step Arte 0151 521 5221</dt>
 									<dd>Flooring Supply Centre have been trading since 1960 and we bring you 
 									a professional service that is second to none. Call us direct for the best prices in the UK, we will beat any genuine quote! 0151 521 5221</dd>	
 								</dl>
@@ -70,7 +70,7 @@
 							<a href="#">
 								<img src="img/q3.png" alt="" />
 								<dl>
-									<dt>Quick-Step Creo</dt>
+									<dt>Quick-Step Creo 0151 521 5221</dt>
 									<dd>Flooring Supply Centre have been trading since 1960 and we bring you 
 									a professional service that is second to none. Call us direct for the best prices in the UK, we will beat any genuine quote! 0151 521 5221.</dd>	
 								</dl>
@@ -85,7 +85,7 @@
 							<a href="#">
 								<img src="img/q4.png" alt="" />
 								<dl>
-									<dt>Quick-Step Eligna</dt>
+									<dt>Quick-Step Eligna 0151 521 5221</dt>
 									<dd>Flooring Supply Centre have been trading since 1960 and we bring you 
 									a professional service that is second to none. Call us direct for the best prices in the UK, we will beat any genuine quote! 0151 521 5221</dd>	
 								</dl>
@@ -100,7 +100,7 @@
 							<a href="#">
 								<img src="img/q4.png" alt=""/>
 								<dl>
-									<dt>Quick-Step Eligna Wide</dt>
+									<dt>Quick-Step Eligna Wide 0151 521 5221</dt>
 									<dd>Flooring Supply Centre have been trading since 1960 and we bring you 
 									a professional service that is second to none. Call us direct for the best prices in the UK, we will beat any genuine quote! 0151 521 5221</dd>	
 								</dl>
@@ -115,7 +115,7 @@
 							<a href="#">
 								<img src="img/q6.png" alt="" />
 								<dl>
-									<dt>Quick-Step Exquisa</dt>
+									<dt>Quick-Step Exquisa 0151 521 5221</dt>
 									<dd>Flooring Supply Centre have been trading since 1960 and we bring you 
 									a professional service that is second to none. Call us direct for the best prices in the UK, we will beat any genuine quote! 0151 521 5221.</dd>	
 								</dl>
@@ -130,7 +130,7 @@
 							<a href="#">
 								<img src="img/q7.png" alt="" />
 								<dl>
-									<dt>Quick-Step Impressive</dt>
+									<dt>Quick-Step Impressive 0151 521 5221</dt>
 									<dd>Flooring Supply Centre have been trading since 1960 and we bring you 
 									a professional service that is second to none. Call us direct for the best prices in the UK, we will beat any genuine quote! 0151 521 5221</dd>	
 								</dl>
@@ -145,7 +145,7 @@
 							<a href="#">
 								<img src="img/q8.png" alt="" />
 								<dl>
-									<dt>Quick-Step Largo</dt>
+									<dt>Quick-Step Largo 0151 521 5221</dt>
 									<dd>Flooring Supply Centre have been trading since 1960 and we bring you 
 									a professional service that is second to none. Call us direct for the best prices in the UK, we will beat any genuine quote! 0151 521 5221.</dd>	
 								</dl>
@@ -160,7 +160,7 @@
 							<a href="#">
 								<img src="img/q9.png" alt="" />
 								<dl>
-									<dt>Quick-Step Perspective</dt>
+									<dt>Quick-Step Perspective 0151 521 5221</dt>
 									<dd>Flooring Supply Centre have been trading since 1960 and we bring you 
 									a professional service that is second to none. Call us direct for the best prices in the UK, we will beat any genuine quote! 0151 521 5221</dd>	
 								</dl>
@@ -174,7 +174,7 @@
 							<a href="#">
 								<img src="img/q10.png" alt="" />
 								<dl>
-									<dt>Quick-Step Perspective Wide</dt>
+									<dt>Quick-Step Perspective Wide 0151 521 5221</dt>
 									<dd>Flooring Supply Centre have been trading since 1960 and we bring you 
 									a professional service that is second to none. Call us direct for the best prices in the UK, we will beat any genuine quote! 0151 521 5221</dd>	
 								</dl>
@@ -217,7 +217,7 @@
 
 /* PRELOADER */
 
-function preloader() {
+/*function preloader() {
 	if (document.images) {
 		var img1 = new Image();
 		var img2 = new Image();
@@ -276,6 +276,8 @@ function addLoadEvent(func) {
 	}
 }
 addLoadEvent(preloader);
+
+*/
 
 </script>
 

@@ -56,7 +56,7 @@
 							<a href="#">
 								<img src="img/psd-4.jpg" alt="" />
 								<dl>
-									<dt>Quickstep Arte</dt>
+									<dt>Quick-Step Arte</dt>
 									<dd>Flooring Supply Centre have been trading since 1960 and we bring you 
 									a professional service that is second to none. Call us direct for the best prices in the UK, we will beat any genuine quote! 0151 521 5221</dd>	
 								</dl>

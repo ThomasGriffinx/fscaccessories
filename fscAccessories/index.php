@@ -35,7 +35,7 @@
 		<div class="navbar object">
     		<div id="wrapper-sorting">
             <div id="wrapper-title-1">
-            <div class="top-rated object"><a href ="https://flooringsupplycentre.co.uk">Visit our full site</a></div>
+            <div class="top-rated object"><a href ="http://flooringsupplycentre.co.uk/index.php?Page=1">Visit our full site</a></div>
             	<div id="fleche-nav-1"></div>
     		</div>
             

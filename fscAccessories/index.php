@@ -141,34 +141,7 @@
 							</div>
 						</figure>	
 
-						<figure class="white">
-							<a href="#">
-								<img src="img/q8.png" alt="" />
-								<dl>
-									<dt>Quick-Step Largo</dt>
-									<dd>Flooring Supply Centre have been trading since 1960 and we bring you 
-									a professional service that is second to none. Call us direct for the best prices in the UK, we will beat any genuine quote! 0151 521 5221.</dd>	
-								</dl>
-							</a>	
-                            <div id="wrapper-part-info">
-                            
-                            	<div id="part-info">Largo</div>
-							</div>
-						</figure>	
-
-						<figure class="white">
-							<a href="#">
-								<img src="img/q9.png" alt="" />
-								<dl>
-									<dt>Quick-Step Perspective</dt>
-									<dd>Flooring Supply Centre have been trading since 1960 and we bring you 
-									a professional service that is second to none. Call us direct for the best prices in the UK, we will beat any genuine quote! 0151 521 5221</dd>	
-								</dl>
-							</a>	
-                            <div id="wrapper-part-info">
-                            	<div id="part-info">Perspective</div>
-							</div>
-						</figure>		
+							
 
 						<figure class="white">
 							<a href="#">

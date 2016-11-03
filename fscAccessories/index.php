@@ -54,7 +54,7 @@
 
 						<figure class="white">
 							<a href="#">
-								<img src="img/psd-4.jpg" alt="" />
+								<img src="img/q1.png" alt="" />
 								<dl>
 									<dt>Quick-Step Arte</dt>
 									<dd>Flooring Supply Centre have been trading since 1960 and we bring you 
@@ -68,122 +68,131 @@
 
 						<figure class="white">
 							<a href="#">
-								<img src="img/font-1.jpg" alt="" />
+								<img src="img/q2.png" alt="" />
 								<dl>
-									<dt>Classic</dt>
-									<dd>Bavro is a minimal free font best suitable for posters and headlines. Designed and released by Marcelo Melo.</dd>
+									<dt>Quick-Step Classic</dt>
+									<dd>Flooring Supply Centre have been trading since 1960 and we bring you 
+									a professional service that is second to none. Call us direct for the best prices in the UK, we will beat any genuine quote! 0151 521 5221.</dd>
 								</dl>
 							</a>	
                             <div id="wrapper-part-info">
-                            	<div class="part-info-image"><img src="img/icon-font.svg" alt="" width="28" height="28"/></div>
+                            
                             	<div id="part-info">Classic</div>
 							</div>
 						</figure>	
 
 						<figure class="white">
 							<a href="#">
-								<img src="img/psd-1.jpg" alt="" />
+								<img src="img/q3.png" alt="" />
 								<dl>
-									<dt>Creo</dt>
-									<dd>A set of high resolution iPhone 6 and Nexus 5 mockups created with smart objects. Free PSD released by Ghani Pradita.</dd>	
+									<dt>Quick-Step Creo</dt>
+									<dd>Flooring Supply Centre have been trading since 1960 and we bring you 
+									a professional service that is second to none. Call us direct for the best prices in the UK, we will beat any genuine quote! 0151 521 5221.</dd>	
 								</dl>
 							</a>	
                             <div id="wrapper-part-info">
-                            	<div class="part-info-image"><img src="img/icon-psd.svg" alt="" width="28" height="28"/></div>
+                            
                             	<div id="part-info">Creo</div>
 							</div>
 						</figure>	
 
 						<figure class="white">
 							<a href="#">
-								<img src="img/psd-2.jpg" alt="" />
+								<img src="img/q4.png" alt="" />
 								<dl>
-									<dt>Eligna</dt>
-									<dd>A set of 4 free photorealistic Nexus 5 mockups providing smart objects. Free PSD released by Craftwork.</dd>	
+									<dt>Quick-Step Eligna</dt>
+									<dd>Flooring Supply Centre have been trading since 1960 and we bring you 
+									a professional service that is second to none. Call us direct for the best prices in the UK, we will beat any genuine quote! 0151 521 5221</dd>	
 								</dl>
 							</a>
                             <div id="wrapper-part-info">
-                            	<div class="part-info-image"><img src="img/icon-psd.svg" alt="" width="28" height="28"/></div>
+                         
                             	<div id="part-info">Eligna</div>
 							</div>
 						</figure>	
 
 						<figure class="white">
 							<a href="#">
-								<img src="img/ai-1.jpg" alt=""/>
+								<img src="img/q4.png" alt=""/>
 								<dl>
-									<dt>Eligna Wide</dt>
-									<dd></dd>	
+									<dt>Quick-Step Eligna Wide</dt>
+									<dd>Flooring Supply Centre have been trading since 1960 and we bring you 
+									a professional service that is second to none. Call us direct for the best prices in the UK, we will beat any genuine quote! 0151 521 5221</dd>	
 								</dl>
 							</a>	
                             <div id="wrapper-part-info">
-                            	<div class="part-info-image"><img src="img/icon-ai.svg" alt="" width="28" height="28"/></div>
+                           
                             	<div id="part-info">Eligna Wide</div>
 							</div>
 						</figure>	
 
 						<figure class="white">
 							<a href="#">
-								<img src="img/theme-2.jpg" alt="" />
+								<img src="img/q5.png" alt="" />
 								<dl>
-									<dt>Elite</dt>
-									<dd>Symphony is a responsive one page website template designed with sketches and coded with html5 and php. Freebie released by Lacoste Xavier.</dd>	
+									<dt>Quick-Step Elite</dt>
+									<dd>Flooring Supply Centre have been trading since 1960 and we bring you 
+									a professional service that is second to none. Call us direct for the best prices in the UK, we will beat any genuine quote! 0151 521 5221</dd>	
 								</dl>
 							</a>
                             <div id="wrapper-part-info">
-                            	<div class="part-info-image"><img src="img/icon-themes.svg" alt="" width="28" height="28"/></div>
+                           
                             	<div id="part-info">Elite</div>
 							</div>
 						</figure>	
 
 						<figure class="white">
 							<a href="#">
-								<img src="img/psd-3.jpg" alt="" />
+								<img src="img/q6.png" alt="" />
 								<dl>
-									<dt>Exquisa</dt>
-									<dd>A set of 9 high-quality Apple Watch mockups created with Photoshop smart objects. Free PSD released by Samuel Medvedowsky.</dd>	
+									<dt>Quick-Step Exquisa</dt>
+									<dd>Flooring Supply Centre have been trading since 1960 and we bring you 
+									a professional service that is second to none. Call us direct for the best prices in the UK, we will beat any genuine quote! 0151 521 5221.</dd>	
 								</dl>
 							</a>	
                             <div id="wrapper-part-info">
-                            	<div class="part-info-image"><img src="img/icon-psd.svg" alt="" width="28" height="28"/></div>
+                         
                             	<div id="part-info">Exquisa</div>
 							</div>
 						</figure>	
 
 						<figure class="white">
 							<a href="#">
-								<img src="img/font-2.jpg" alt="" />
+								<img src="img/q7.png" alt="" />
 								<dl>
-									<dt>Impressive</dt>
-									<dd>Beyno is a free uppercase font with a futuristic feel and look. Designed and released by Fabian Korn.</dd>	
+									<dt>Quick-Step Impressive</dt>
+									<dd>Flooring Supply Centre have been trading since 1960 and we bring you 
+									a professional service that is second to none. Call us direct for the best prices in the UK, we will beat any genuine quote! 0151 521 5221</dd>	
 								</dl>
 							</a>
                             <div id="wrapper-part-info">
-                            	<div class="part-info-image"><img src="img/icon-font.svg" alt="" width="28" height="28"/></div>
+                            	
                             	<div id="part-info">Impressive</div>
 							</div>
 						</figure>	
 
 						<figure class="white">
 							<a href="#">
-								<img src="img/font-3.jpg" alt="" />
+								<img src="img/q8.png" alt="" />
 								<dl>
-									<dt>Largo</dt>
-									<dd>Symphony is a responsive one page website template designed with sketches and coded with html5 and php. Freebie released by Lacoste Xavier.</dd>	
+									<dt>Quick-Step Largo</dt>
+									<dd>Flooring Supply Centre have been trading since 1960 and we bring you 
+									a professional service that is second to none. Call us direct for the best prices in the UK, we will beat any genuine quote! 0151 521 5221.</dd>	
 								</dl>
 							</a>	
                             <div id="wrapper-part-info">
-                            	<div class="part-info-image"><img src="img/icon-font.svg" alt="" width="28" height="28"/></div>
+                            
                             	<div id="part-info">Largo</div>
 							</div>
 						</figure>	
 
 						<figure class="white">
 							<a href="#">
-								<img src="img/ai-2.jpg" alt="" />
+								<img src="img/q9.png" alt="" />
 								<dl>
-									<dt>Perspective</dt>
-									<dd>A set of 16 outline space icons created with Adobe Illustrator. Free Ai designed and released by Justas Galaburda.</dd>	
+									<dt>Quick-Step Perspective</dt>
+									<dd>Flooring Supply Centre have been trading since 1960 and we bring you 
+									a professional service that is second to none. Call us direct for the best prices in the UK, we will beat any genuine quote! 0151 521 5221</dd>	
 								</dl>
 							</a>	
                             <div id="wrapper-part-info">
@@ -194,143 +203,33 @@
 
 						<figure class="white">
 							<a href="#">
-								<img src="img/icons-1.jpg" alt="" />
+								<img src="img/q10.png" alt="" />
 								<dl>
-									<dt>Perspective Wide</dt>
-									<dd>Grap is a set of 9 simple but coloured icons created with Photoshop. Free PSD released by kamran bhatti.</dd>	
+									<dt>Quick-Step Perspective Wide</dt>
+									<dd>Flooring Supply Centre have been trading since 1960 and we bring you 
+									a professional service that is second to none. Call us direct for the best prices in the UK, we will beat any genuine quote! 0151 521 5221</dd>	
 								</dl>
 							</a>
                             <div id="wrapper-part-info">
-                            	<div class="part-info-image"><img src="img/icon-psd.svg" alt="" width="28" height="28"/></div>
+                            
                             	<div id="part-info">Perspective Wide</div>
 							</div>
 						</figure>	
 
 						<figure class="white">
 							<a href="#">
-								<img src="img/ui-1.jpg" alt="" />
+								<img src="img/q11.png" alt="" />
 								<dl>
-									<dt>Rustic</dt>
-									<dd>Acess to our largest database of the web about the ui and look into a ton of professionnal tools</dd>	
+									<dt>Quick-Step Rustic</dt>
+									<dd>Flooring Supply Centre have been trading since 1960 and we bring you 
+									a professional service that is second to none. Call us direct for the best prices in the UK, we will beat any genuine quote! 0151 521 5221</dd>	
 								</dl>
 							</a>	
                             <div id="wrapper-part-info">
-                            	<div class="part-info-image"><img src="img/icon-premium.svg" alt="" width="28" height="28"/></div>
+                            	
                             	<div id="part-info">Rustic</div>
 							</div>
 						</figure>
-                        
-                        <figure class="white">
-							<a href="#">
-								<img src="img/font-5.jpg" alt="" />
-								<dl>
-									<dt>Free font</dt>
-									<dd>A set of 6 outline beer icons created with Adobe Illustrator. Free Ai designed and released by Justas Galaburda.</dd>	
-								</dl>
-							</a>	
-                            <div id="wrapper-part-info">
-                            	<div class="part-info-image"><img src="img/icon-font.svg" alt="" width="28" height="28"/></div>
-                            	<div id="part-info">Free font</div>
-							</div>
-						</figure>	
-
-						<figure class="white">
-							<a href="#">
-								<img src="img/theme-2.jpg" alt="" />
-								<dl>
-									<dt>Html theme</dt>
-									<dd>Symphony is a responsive one page website template designed with sketches and coded with html5 and php. Freebie released by Lacoste Xavier.</dd>	
-								</dl>
-							</a>
-                            <div id="wrapper-part-info">
-                            	<div class="part-info-image"><img src="img/icon-themes.svg" alt="" width="28" height="28"/></div>
-                            	<div id="part-info">Html theme</div>
-							</div>
-						</figure>	
-
-						<figure class="white">
-							<a href="#">
-								<img src="img/psd-5.jpg" alt="" />
-								<dl>
-									<dt>PSD mockup</dt>
-									<dd>A very detailed Macbook Air mockup created with Photoshop and providing smart objects. Free PSD released by Barin Cristian.</dd>	
-								</dl>
-							</a>
-                            <div id="wrapper-part-info">
-                            	<div class="part-info-image"><img src="img/icon-psd.svg" alt="" width="28" height="28"/></div>
-                            	<div id="part-info">PSD mockup</div>
-							</div>
-						</figure>	
-
-						<figure class="white">
-							<a href="#">
-								<img src="img/icons-3.jpg" alt="" />
-								<dl>
-									<dt>PSD icons</dt>
-									<dd>A set of 16 hand gestures icons you may find useful for your projects. Free PSD released by Rovane Durso.</dd>	
-								</dl>
-							</a>	
-                            <div id="wrapper-part-info">
-                            	<div class="part-info-image"><img src="img/icon-psd.svg" alt="" width="28" height="28"/></div>
-                            	<div id="part-info">PSD icons</div>
-							</div>
-						</figure>	
-
-						<figure class="white">
-							<a href="#">
-								<img src="img/font-4.jpg" alt="" />
-								<dl>
-									<dt>Free font</dt>
-									<dd>Julep is an elegant and modern free font released in vector formats (Ai, EPS and PDF). Designed and released by Jeremy Ross.</dd>	
-								</dl>
-							</a>	
-                            <div id="wrapper-part-info">
-                            	<div class="part-info-image"><img src="img/icon-font.svg" alt="" width="28" height="28"/></div>
-                            	<div id="part-info">Free font</div>
-							</div>
-						</figure>	
-
-						<figure class="white">
-							<a href="#">
-								<img src="img/theme-3.jpg" alt="" />
-								<dl>
-									<dt>HTML theme</dt>
-									<dd>Gorgo is a free HTML portfolio template for freelancers, photographers, agencies, designers and other creative fields. Designed and released by Aristothemes.</dd>	
-								</dl>
-							</a>
-                            <div id="wrapper-part-info">
-                            	<div class="part-info-image"><img src="img/icon-themes.svg" alt="" width="28" height="28"/></div>
-                            	<div id="part-info">HTML theme</div>
-							</div>
-						</figure>		
-
-						<figure class="white">
-							<a href="#">
-								<img src="img/font-6.jpg" alt="" />
-								<dl>
-									<dt>Free font</dt>
-									<dd>REEF is a rounded font free for commercial and personal use. It's strength lies in simplicity and construction.</dd>	
-								</dl>
-							</a>	
-                            <div id="wrapper-part-info">
-                            	<div class="part-info-image"><img src="img/icon-font.svg" alt="" width="28" height="28"/></div>
-                            	<div id="part-info">Free font</div>
-							</div>
-						</figure>	
-
-						<figure class="white">
-							<a href="#">
-								<img src="img/theme-4.jpg" alt="" />
-								<dl>
-									<dt>HTML theme</dt>
-									<dd>ActiveBox is a free responsive HTML template featured by clean and minimalistic design. Designed and coded by Kamal Chaneman.</dd>	
-								</dl>
-							</a>
-                            <div id="wrapper-part-info">
-                            	<div class="part-info-image"><img src="img/icon-themes.svg" alt="" width="28" height="28"/></div>
-                            	<div id="part-info">HTML theme</div>
-							</div>
-						</figure>	
                         
 					</section>
                     
